@@ -9,7 +9,7 @@ const SearchBar = (props) => {
                     className="form-control"
                     value={props.value}
                     name="search"
-                    onChange={props.hangleInputChange}
+                    onChange={props.handleInputChange}
                     type="search"
                     placeholder="Search"
                 />
