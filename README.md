@@ -39,6 +39,7 @@ Please use a new branch before contributing
 
 ## *Author*
 - Hanna Munoz
+- [Link to Application](https://hannamunoz.github.io/employee-directory/)
 - [Github](https://github.com/hannamunoz)
 - [LinkedIn](https://www.linkedin.com/in/hanna-munoz-179993b2/)
 
