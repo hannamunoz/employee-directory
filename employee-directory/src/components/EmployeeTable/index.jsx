@@ -44,7 +44,7 @@ const EmployeeTable = (props) => {
                             </td>
                             <td className="align-middle">{fullName}</td>
                             <td className="align-middle">
-                    <a href={`tel:+1${employee.phone}`}>{employee.phone}</a>
+                                <a href={`tel:+1${employee.phone}`}>{employee.phone}</a>
                             </td>
                             <td className="align-middle email">
                                 <a href={`mailto:${employee.email}`}>{employee.email}</a>
